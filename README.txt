@@ -21,7 +21,7 @@ Algorithmes heuristiques (Opt2, Opt3 -permutations-)
  A améliorer
 =============
 
-Le parser n'est pas terrible, il n'est pas du tout générique est ne parse que les fichiers avec un format précis (voir les ressources).
-Il serait intéressant d'améliorer aussi la vue est de configurer la liste des algos plutôt que de les mettre en dur :/
+Le parser n'est pas terrible, il n'est pas du tout générique et ne parse que les fichiers avec un format précis (voir les ressources).
+Il serait intéressant d'améliorer aussi la vue et de configurer la liste des algos plutôt que de les mettre en dur :/
 
 
